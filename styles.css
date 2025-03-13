@@ -19,6 +19,14 @@ section {
     padding-bottom: 5rem;
 }
 
+.casa{
+    position: absolute;
+    right: 7rem;
+    top: 20rem;
+    width: 38rem;
+    height: auto;
+}
+
 
 .nav-link {
     color: #CB6D43;
